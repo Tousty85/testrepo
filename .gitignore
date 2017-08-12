@@ -1,0 +1,8 @@
+# all log ignore
+*.log
+
+#watch main2.log
+!main2.log
+
+#ignore log in temp
+temp/*.log
